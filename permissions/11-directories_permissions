@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find /shell/permissions -type d -exec chmod 755 {} \
+sudo find /shell/permissions -type d -exec chmod 755
